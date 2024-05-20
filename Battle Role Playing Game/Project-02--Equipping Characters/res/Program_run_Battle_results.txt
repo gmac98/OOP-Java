@@ -1,0 +1,110 @@
+[{gearName='Shiny Helmet', attackValue=0, defenseValue=10}]
+[{gearName='Sturdy Glove', attackValue=0, defenseValue=10}, {gearName='Sturdy Knife', attackValue=0, defenseValue=10}, {gearName='Super Shield', attackValue=5, defenseValue=0}, {gearName='Invisibility Sword', attackValue=0, defenseValue=10}, {gearName='Invisibility Sword', attackValue=0, defenseValue=10}, {gearName='Invisibility Sword', attackValue=0, defenseValue=10}, {gearName='Super Glove', attackValue=5, defenseValue=0}, {gearName='Shiny Shield', attackValue=0, defenseValue=10}, {gearName='Super Shield', attackValue=5, defenseValue=0}, {gearName='Electric Duster', attackValue=0, defenseValue=10}, {gearName='Electric Bracelet', attackValue=0, defenseValue=10}]
+[{gearName='Super Boots', attackValue=15, defenseValue=0}, {gearName='Speedy Sneakers', attackValue=5, defenseValue=0}, {gearName='Super Boots', attackValue=15, defenseValue=0}]
+[{gearName='Flaming Ring', attackValue=0, defenseValue=5}, {gearName='Invisibility Brooch', attackValue=0, defenseValue=5}, {gearName='Sturdy Crown', attackValue=10, defenseValue=0}, {gearName='Magic Crown', attackValue=10, defenseValue=0}, {gearName='Invisibility Brooch', attackValue=0, defenseValue=5}]
+Player{charId=1, attack total=10, defense total=15,
+ HeadGearList =[],
+ HandGearList =[],
+ FootGearList =[],
+ JewelryList =[]}
+Player{charId=1, attack total=120, defense total=305,
+ HeadGearList =[{gearName='Shiny Helmet', attackValue=0, defenseValue=10}],
+ HandGearList =[{gearName='Invisibility,Invisibility,Super,Shiny,Super,Electric,Sturdy,Sturdy,Super,Invisibility Sword', attackValue=15, defenseValue=70}],
+ FootGearList =[{gearName='Super,Speedy Sneakers', attackValue=20, defenseValue=0}],
+ JewelryList =[{gearName='Sturdy,Magic,Invisibility,Flaming,Invisibility Brooch', attackValue=20, defenseValue=15}]}
+
+[{gearName='Bulky Helmet', attackValue=0, defenseValue=5}]
+[{gearName='Sturdy Shield', attackValue=0, defenseValue=10}, {gearName='Invisibility Duster', attackValue=5, defenseValue=0}, {gearName='Electric Duster', attackValue=0, defenseValue=10}, {gearName='Electric Duster', attackValue=0, defenseValue=10}, {gearName='Sturdy Shield', attackValue=0, defenseValue=10}, {gearName='Invisibility Duster', attackValue=5, defenseValue=0}, {gearName='Invisibility Bracelet', attackValue=5, defenseValue=0}, {gearName='Sturdy Shield', attackValue=0, defenseValue=10}]
+[{gearName='Hefty Boots', attackValue=5, defenseValue=0}, {gearName='Super Boots', attackValue=15, defenseValue=0}, {gearName='Stealthy Sneakers', attackValue=5, defenseValue=0}]
+[{gearName='Electric Pendant', attackValue=10, defenseValue=0}, {gearName='Magic Crown', attackValue=10, defenseValue=0}, {gearName='Healing Ribbon', attackValue=0, defenseValue=5}, {gearName='Healing Ribbon', attackValue=0, defenseValue=5}, {gearName='Burning Necklace', attackValue=0, defenseValue=5}, {gearName='Sturdy Crown', attackValue=10, defenseValue=0}, {gearName='Electric Pendant', attackValue=10, defenseValue=0}, {gearName='Invisibility Brooch', attackValue=0, defenseValue=5}]
+Player{charId=2, attack total=20, defense total=15,
+ HeadGearList =[],
+ HandGearList =[],
+ FootGearList =[],
+ JewelryList =[]}
+Player{charId=2, attack total=85, defense total=170,
+ HeadGearList =[{gearName='Bulky Helmet', attackValue=0, defenseValue=5}],
+ HandGearList =[{gearName='Sturdy,Invisibility,Electric,Electric,Sturdy,Invisibility,Invisibility,Sturdy Shield', attackValue=15, defenseValue=50}],
+ FootGearList =[{gearName='Hefty,Super Boots', attackValue=20, defenseValue=0}],
+ JewelryList =[{gearName='Electric,Magic,Healing,Healing,Burning,Sturdy,Electric,Invisibility Brooch', attackValue=40, defenseValue=20}]}
+
+Starting Battle:
+Player 1 damage = -280
+Player 2 damage = 70
+Player 1 wins!
+Do you want to play a rematch? Yes or No
+Yes
+
+[{gearName='Fantastic Hat', attackValue=0, defenseValue=10}, {gearName='Shiny Helmet', attackValue=0, defenseValue=10}]
+[{gearName='Invisibility Sword', attackValue=0, defenseValue=10}, {gearName='Invisibility Sword', attackValue=0, defenseValue=10}, {gearName='Bulky Sword', attackValue=5, defenseValue=0}, {gearName='Magic Knife', attackValue=0, defenseValue=10}, {gearName='Invisibility Sword', attackValue=0, defenseValue=10}, {gearName='Bulky Sword', attackValue=5, defenseValue=0}, {gearName='Magic Knife', attackValue=0, defenseValue=10}]
+[{gearName='Speedy Sneakers', attackValue=5, defenseValue=0}, {gearName='Bulky Hoverboard', attackValue=10, defenseValue=0}, {gearName='Hefty Boots', attackValue=5, defenseValue=0}, {gearName='Hefty Boots', attackValue=5, defenseValue=0}]
+[{gearName='Flaming Collar', attackValue=10, defenseValue=0}, {gearName='Flaming Necklace', attackValue=0, defenseValue=5}, {gearName='Invisibility Brooch', attackValue=0, defenseValue=5}, {gearName='Magic Crown', attackValue=10, defenseValue=0}, {gearName='Flaming Necklace', attackValue=0, defenseValue=5}, {gearName='Magic Crown', attackValue=10, defenseValue=0}, {gearName='Flaming Collar', attackValue=10, defenseValue=0}]
+Player{charId=1, attack total=10, defense total=15,
+ HeadGearList =[],
+ HandGearList =[],
+ FootGearList =[],
+ JewelryList =[]}
+Player{charId=1, attack total=165, defense total=210,
+ HeadGearList =[{gearName='Fantastic Hat', attackValue=0, defenseValue=10}],
+ HandGearList =[{gearName='Magic,Invisibility,Invisibility,Bulky,Magic,Invisibility,Bulky Sword', attackValue=10, defenseValue=50}],
+ FootGearList =[{gearName='Speedy,Bulky Hoverboard', attackValue=15, defenseValue=0}],
+ JewelryList =[{gearName='Flaming,Flaming,Flaming,Invisibility,Magic,Flaming,Magic Crown', attackValue=40, defenseValue=15}]}
+
+[{gearName='Fantastic Hat', attackValue=0, defenseValue=10}, {gearName='Bulky Helmet', attackValue=0, defenseValue=5}, {gearName='Bulky Helmet', attackValue=0, defenseValue=5}]
+[{gearName='Electric Duster', attackValue=0, defenseValue=10}, {gearName='Sturdy Knife', attackValue=0, defenseValue=10}, {gearName='Magic Knife', attackValue=0, defenseValue=10}, {gearName='Magic Knife', attackValue=0, defenseValue=10}, {gearName='Shiny Shield', attackValue=0, defenseValue=10}]
+[{gearName='Speedy Sneakers', attackValue=5, defenseValue=0}, {gearName='Bulky Hoverboard', attackValue=10, defenseValue=0}, {gearName='Stealthy Sneakers', attackValue=5, defenseValue=0}]
+[{gearName='Electric Brooch', attackValue=10, defenseValue=0}, {gearName='Speedy Collar', attackValue=10, defenseValue=0}, {gearName='Electric Pendant', attackValue=10, defenseValue=0}, {gearName='Magic Crown', attackValue=10, defenseValue=0}, {gearName='Flaming Collar', attackValue=10, defenseValue=0}, {gearName='Flaming Necklace', attackValue=0, defenseValue=5}, {gearName='Flaming Necklace', attackValue=0, defenseValue=5}, {gearName='Burning Necklace', attackValue=0, defenseValue=5}, {gearName='Electric Pendant', attackValue=10, defenseValue=0}]
+Player{charId=2, attack total=20, defense total=15,
+ HeadGearList =[],
+ HandGearList =[],
+ FootGearList =[],
+ JewelryList =[]}
+Player{charId=2, attack total=35, defense total=145,
+ HeadGearList =[{gearName='Fantastic Hat', attackValue=0, defenseValue=10}],
+ HandGearList =[{gearName='Magic,Magic,Shiny,Electric,Sturdy Knife', attackValue=0, defenseValue=50}],
+ FootGearList =[{gearName='Speedy,Bulky Hoverboard', attackValue=15, defenseValue=0}],
+ JewelryList =[{gearName='Electric,Magic,Flaming,Flaming,Flaming,Burning,Electric,Electric,Speedy Collar', attackValue=60, defenseValue=15}]}
+
+Starting Battle:
+Player 1 damage = -220
+Player 2 damage = 220
+Player 1 wins!
+Do you want to play a rematch? Yes or No
+Yes
+
+[{gearName='Shiny Helmet', attackValue=0, defenseValue=10}, {gearName='Mighty Visor', attackValue=0, defenseValue=15}, {gearName='Mighty Visor', attackValue=0, defenseValue=15}]
+[{gearName='Super Shield', attackValue=5, defenseValue=0}, {gearName='Bulky Sword', attackValue=5, defenseValue=0}, {gearName='Bulky Sword', attackValue=5, defenseValue=0}, {gearName='Super Shield', attackValue=5, defenseValue=0}, {gearName='Sturdy Glove', attackValue=0, defenseValue=10}, {gearName='Electric Duster', attackValue=0, defenseValue=10}, {gearName='Super Sword', attackValue=15, defenseValue=0}, {gearName='Sturdy Knife', attackValue=0, defenseValue=10}]
+[{gearName='Stealthy Sneakers', attackValue=5, defenseValue=0}, {gearName='Bulky Hoverboard', attackValue=10, defenseValue=0}, {gearName='Super Hoverboard', attackValue=5, defenseValue=0}]
+[{gearName='Flaming Necklace', attackValue=0, defenseValue=5}, {gearName='Shiny Ribbon', attackValue=0, defenseValue=5}, {gearName='Invisibility Pendant', attackValue=0, defenseValue=5}, {gearName='Power Ring', attackValue=0, defenseValue=5}, {gearName='Sturdy Crown', attackValue=10, defenseValue=0}, {gearName='Flaming Necklace', attackValue=0, defenseValue=5}]
+Player{charId=1, attack total=20, defense total=15,
+ HeadGearList =[],
+ HandGearList =[],
+ FootGearList =[],
+ JewelryList =[]}
+Player{charId=1, attack total=140, defense total=115,
+ HeadGearList =[{gearName='Shiny Helmet', attackValue=0, defenseValue=10}],
+ HandGearList =[{gearName='Super,Bulky,Bulky,Super,Sturdy,Electric,Super,Sturdy Knife', attackValue=35, defenseValue=30}],
+ FootGearList =[{gearName='Stealthy,Bulky Hoverboard', attackValue=15, defenseValue=0}],
+ JewelryList =[{gearName='Sturdy,Flaming,Flaming,Shiny,Invisibility,Power Ring', attackValue=10, defenseValue=25}]}
+
+[{gearName='Shiny Helmet', attackValue=0, defenseValue=10}]
+[{gearName='Bulky Sword', attackValue=5, defenseValue=0}, {gearName='Electric Sword', attackValue=5, defenseValue=0}, {gearName='Invisibility Bracelet', attackValue=5, defenseValue=0}, {gearName='Invisibility Sword', attackValue=0, defenseValue=10}]
+[{gearName='Speedy Sneakers', attackValue=5, defenseValue=0}, {gearName='Hefty Boots', attackValue=5, defenseValue=0}, {gearName='Shiny Hoverboard', attackValue=5, defenseValue=0}, {gearName='Speedy Sneakers', attackValue=5, defenseValue=0}, {gearName='Stealthy Hoverboard', attackValue=10, defenseValue=0}]
+[{gearName='Burning Crown', attackValue=10, defenseValue=0}, {gearName='Flaming Ring', attackValue=0, defenseValue=5}, {gearName='Sturdy Crown', attackValue=10, defenseValue=0}, {gearName='Healing Ribbon', attackValue=0, defenseValue=5}, {gearName='Flaming Necklace', attackValue=0, defenseValue=5}, {gearName='Flaming Necklace', attackValue=0, defenseValue=5}, {gearName='Power Ring', attackValue=0, defenseValue=5}, {gearName='Electric Brooch', attackValue=10, defenseValue=0}, {gearName='Burning Crown', attackValue=10, defenseValue=0}, {gearName='Magic Crown', attackValue=10, defenseValue=0}]
+Player{charId=2, attack total=10, defense total=15,
+ HeadGearList =[],
+ HandGearList =[],
+ FootGearList =[],
+ JewelryList =[]}
+Player{charId=2, attack total=220, defense total=130,
+ HeadGearList =[{gearName='Shiny Helmet', attackValue=0, defenseValue=10}],
+ HandGearList =[{gearName='Bulky,Electric,Invisibility,Invisibility Sword', attackValue=15, defenseValue=10}],
+ FootGearList =[{gearName='Speedy,Hefty Boots', attackValue=10, defenseValue=0}],
+ JewelryList =[{gearName='Flaming,Flaming,Power,Electric,Burning,Magic,Burning,Flaming,Sturdy,Healing Ribbon', attackValue=50, defenseValue=25}]}
+
+Starting Battle:
+Player 1 damage = 105
+Player 2 damage = 10
+Player 2 wins!
+Do you want to play a rematch? Yes or No
+No

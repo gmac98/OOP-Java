@@ -1,0 +1,30 @@
+load sample.jpeg
+blur
+save out/blur.png
+
+load sample.jpeg
+sharpening
+save out/sharpening.png
+
+load sample.jpeg
+greyscale
+save out/greyscale.png
+
+load sample.jpeg
+sepia_tone
+save out/sepia_tone.png
+
+load sample.jpeg
+dither 2
+save out/dither.png
+
+load sample.jpeg
+mosaic 570
+save out/mosaic.png
+
+load sample.jpeg
+pixelate 41
+save out/pixelate.png
+
+load sample.jpeg
+pattern 41 out/pattern.txt

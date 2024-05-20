@@ -1,0 +1,37 @@
+//Program Run -- Displaying discarded items
+[{gearName='Electric Sword', attackValue=-5, defenseValue=0}, {gearName='Sturdy Knife', attackValue=0, defenseValue=-10}, {gearName='Sturdy Glove', attackValue=0, defenseValue=10}]
+[{gearName='Stealthy Sneakers', attackValue=5, defenseValue=0}, {gearName='Stealthy Hoverboard', attackValue=10, defenseValue=0}, {gearName='Shiny Hoverboard', attackValue=5, defenseValue=0}, {gearName='Super Boots', attackValue=15, defenseValue=0}, {gearName='Hefty Boots', attackValue=5, defenseValue=0}]
+[{gearName='Flaming Collar', attackValue=-10, defenseValue=0}, {gearName='Healing Ribbon', attackValue=0, defenseValue=-5}, {gearName='Power Ring', attackValue=0, defenseValue=5}, {gearName='Shiny Ribbon', attackValue=0, defenseValue=5}, {gearName='Flaming Ring', attackValue=0, defenseValue=5}, {gearName='Burning Necklace', attackValue=0, defenseValue=5}, {gearName='Sturdy Crown', attackValue=10, defenseValue=0}, {gearName='Flaming Ring', attackValue=0, defenseValue=5}, {gearName='Burning Crown', attackValue=10, defenseValue=0}, {gearName='Sturdy Crown', attackValue=10, defenseValue=0}]
+Player{charId=1, attack total=10, defense total=15,
+ HeadGearList =[],
+ HandGearList =[],
+ FootGearList =[],
+ JewelryList =[]}
+Player{charId=1, attack total=65, defense total=80,
+ HeadGearList =[{gearName='Shiny Helmet', attackValue=0, defenseValue=10}],
+ HandGearList =[{gearName='Sturdy,Electric,Sturdy Knife', attackValue=-5, defenseValue=0}],
+ FootGearList =[{gearName='Stealthy,Stealthy Hoverboard', attackValue=15, defenseValue=0}],
+ JewelryList =[{gearName='Flaming,Burning,Sturdy,Flaming,Burning,Sturdy,Flaming,Healing,Power,Shiny Ribbon', attackValue=20, defenseValue=20}]}
+
+[{gearName='Shiny Helmet', attackValue=0, defenseValue=10}, {gearName='Mighty Visor', attackValue=0, defenseValue=15}]
+[{gearName='Electric Sword', attackValue=-5, defenseValue=0}, {gearName='Electric Sword', attackValue=-5, defenseValue=0}, {gearName='Electric Sword', attackValue=-5, defenseValue=0}, {gearName='Electric Duster', attackValue=0, defenseValue=10}, {gearName='Sturdy Knife', attackValue=0, defenseValue=-10}, {gearName='Sturdy Knife', attackValue=0, defenseValue=-10}]
+[{gearName='Hefty Boots', attackValue=5, defenseValue=0}]
+[{gearName='Invisibility Brooch', attackValue=0, defenseValue=5}, {gearName='Speedy Collar', attackValue=10, defenseValue=0}, {gearName='Electric Brooch', attackValue=10, defenseValue=0}, {gearName='Invisibility Pendant', attackValue=0, defenseValue=5}, {gearName='Flaming Collar', attackValue=-10, defenseValue=0}, {gearName='Healing Ribbon', attackValue=0, defenseValue=-5}, {gearName='Shiny Ribbon', attackValue=0, defenseValue=5}, {gearName='Magic Crown', attackValue=10, defenseValue=0}, {gearName='Burning Crown', attackValue=10, defenseValue=0}, {gearName='Shiny Ribbon', attackValue=0, defenseValue=5}, {gearName='Burning Crown', attackValue=10, defenseValue=0}]
+Player{charId=2, attack total=20, defense total=15,
+ HeadGearList =[],
+ HandGearList =[],
+ FootGearList =[],
+ JewelryList =[]}
+Discarded items:{gearName='Shiny Helmet', attackValue=0, defenseValue=10}
+Player{charId=2, attack total=-25, defense total=30,
+ HeadGearList =[{gearName='Mighty Visor', attackValue=0, defenseValue=15}],
+ HandGearList =[{gearName='Sturdy,Sturdy,Electric,Electric,Electric,Electric Duster', attackValue=-15, defenseValue=-10}],
+ FootGearList =[{gearName='Hefty Boots', attackValue=5, defenseValue=0}],
+ JewelryList =[{gearName='Shiny,Magic,Burning,Shiny,Burning,Invisibility,Speedy,Electric,Invisibility,Flaming,Healing Ribbon', attackValue=40, defenseValue=15}]}
+
+Starting Battle:
+Player 1 damage = -155
+Player 2 damage = 165
+Player 1 wins!
+Do you want to play a rematch? Yes or No
+No
